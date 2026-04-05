@@ -18,6 +18,7 @@ An HR gamification platform for running Friday team activities — live scoring,
 ## Project Structure
  
 
+```bash
 app/
 ├── public/
 ├── src/
