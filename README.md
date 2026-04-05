@@ -62,9 +62,7 @@ npm run dev
 
  
 App runs at *http://localhost:5173*
- 
-> Without Supabase credentials the app runs in *Demo mode* — all data is local and a yellow banner is shown at the top.
- 
+  
 ---
  
 ## Connecting Supabase
@@ -153,7 +151,6 @@ All tables have Row Level Security (RLS) enabled. The schema is idempotent — s
 | VITE_SUPABASE_URL      | Your Supabase project URL          |
 | VITE_SUPABASE_ANON_KEY | Your Supabase anon/public key      |
  
-Both are optional — omitting them enables Demo mode with local-only state.
  
 ---
  
