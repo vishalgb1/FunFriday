@@ -44,7 +44,7 @@ app/
 ├── .env.example                # Environment variable template
 ├── vite.config.js
 └── package.json
-
+```
  
 ---
  
